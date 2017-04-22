@@ -1,0 +1,15 @@
+h2 {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bold;
+    color: #222222;
+    font-size: 30pt;
+    text-align: center;
+}
+
+p {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: light;
+    color: #4b4b4b;
+    font-size: 18pt;
+    text-align: center;
+}

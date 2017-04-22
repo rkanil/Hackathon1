@@ -18,3 +18,10 @@ section {
 	height: 100px;
 	justify-content: right;
 }
+p {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: light;
+    color: #4b4b4b;
+    font-size: 18pt;
+    text-align: center;
+}
