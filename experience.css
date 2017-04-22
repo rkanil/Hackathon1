@@ -6,3 +6,10 @@ h2 {
     text-align: center;
     text-transform: uppercase;
 }
+
+p {
+    font-family: 'Titillium Web', sans serif;
+    color: #222222;
+    font-size: 18pt;
+    text-align: center;
+}
