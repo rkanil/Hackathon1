@@ -13,3 +13,13 @@ p {
     font-size: 18pt;
     text-align: center;
 }
+
+div {
+    display: block;
+}
+
+img {
+    width: 80%;
+    display: block;
+    margin: auto;
+}
