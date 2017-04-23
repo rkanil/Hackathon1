@@ -1,0 +1,60 @@
+/* team */
+.teamSectionHeight {
+  height: 500px; 
+}
+
+.teamHeadingTxt{
+  font-size: 40px;
+  font-family: TitilliumWeb;
+  font-weight: bold;
+  color: #222
+}
+
+.teamSubHeadingTxt {
+  font-size: 18px;
+  font-family: TitilliumWeb;
+  font-weight: bold;
+  color: #4b4b4b;
+  width: 50%;
+  text-align: center;
+  display:inline-block;
+  margin-bottom: 50px;
+}
+
+.teamImageHeadingTxt {
+  font-size: 24px;
+  font-weight: bold; 
+  font-family: TitilliumWeb;
+  color: #222;
+}
+
+.teamImageSubHeadingTxt {
+  font-size: 16px;
+  font-weight: light;
+  font-family: TilliumWeb;
+  color: #777;
+}
+
+[class^=teamCircleImages] {
+    border: 2px solid #a1a1a1;
+    /*background: black;*/
+    width: 125px;
+    height: 125px;
+    border-radius: 75px;
+    display: inline-block;
+    margin: 0 10px auto;
+}
+
+[class^=teamCircleSocialImages] {
+    border: 2px solid #a1a1a1;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    display: inline-block;
+    margin: 0 10px auto;
+}
+
+
+.inline {
+    display: inline-block;
+}
