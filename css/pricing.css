@@ -1,0 +1,50 @@
+/* pricing */
+.pricingSectionHeight {
+  height: 500px; 
+}
+
+.pricingHeadingTxt{
+  font-size: 40px;
+  font-family: TitilliumWeb;
+  font-weight: bold;
+  color: #222
+}
+
+.pricingSubHeadingTxt {
+  font-size: 18px;
+  font-family: TitilliumWeb;
+  font-weight: bold;
+  color: #4b4b4b;
+  width: 50%;
+  text-align: center;
+  display:inline-block;
+  margin-bottom: 50px;
+}
+
+.pricingImageHeadingTxt {
+  font-size: 24px;
+  font-weight: bold; 
+  font-family: TitilliumWeb;
+  color: #222;
+}
+
+.pricingImageSubHeadingTxt {
+  font-size: 16px;
+  font-weight: light;
+  font-family: TilliumWeb;
+  color: #777;
+}
+
+
+
+.pricingBorder {
+    border: 2px solid #a1a1a1;
+    /*background: black;*/
+    width: 200px;
+    display: inline-block;
+    margin: 0 10px auto;
+}
+
+.inline {
+  display: inline-block;
+}
