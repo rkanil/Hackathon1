@@ -1,11 +1,39 @@
 /* services */
 .servicesSectionHeight {
-  height: 700px; 
+  height: 500px; 
 }
 
-.servicesTxtHeight {
-  font-size: 20px;
-  font-weight: 700; 
+.servicesHeadingTxt{
+  font-size: 40px;
+  font-family: TitilliumWeb;
+  font-weight: bold;
+  color: #222
+}
+
+.servicesSubHeadingTxt {
+  font-size: 18px;
+  font-family: TitilliumWeb;
+  font-weight: bold;
+  color: #4b4b4b;
+  width: 50%;
+  text-align: center;
+  display:inline-block;
+  margin-bottom: 50px;
+}
+
+.servicesImageHeadingTxt {
+  font-size: 24px;
+  font-weight: bold; 
+  font-family: TitilliumWeb;
+  color: #222;
+
+}
+
+.servicesImageSubHeadingTxt {
+  font-size: 16px;
+  font-weight: light;
+  font-family: TilliumWeb;
+  color: #777;
 }
 
 [class^=servicesCircleImages] {
