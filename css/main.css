@@ -64,3 +64,31 @@ section {
     display: inline-block;
     margin: 40px auto;
 }
+
+/* features */
+.featuresHeading {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bold;
+    color: #222222;
+    font-size: 40pt;
+    text-align: center;
+}
+
+.featuresParagraph {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: light;
+    color: #4b4b4b;
+    font-size: 18pt;
+    text-align: center;
+}
+
+.featureImage {
+    height: 100%;
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+.btn {
+    background-color: #ea6060;
+}
