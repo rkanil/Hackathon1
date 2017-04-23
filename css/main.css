@@ -1,1 +1,66 @@
 /* main */
+.mainContainer {
+    width: 75%;
+    
+    background-color:#ecedee;
+    margin: auto;
+}
+
+section {
+    width: 87.5%;
+    background-color: white;
+    margin: auto;
+}
+/* header */
+.centerText {
+    font-size: 20px;
+    display: inline-block;
+}
+
+.headerMenuItem {
+    display: inline-block;
+}
+
+.headerMenuText {
+    font-size: 14px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.headingMidMargin {
+    margin: 150px auto;
+}
+
+.headingBottomMargin {
+    margin: 10px auto;
+}
+
+.headerSectionHeight {
+  min-height: 400px; 
+}
+
+.headerPlayCircle {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    display: inline-block;
+    background: url(../images/play.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20px;
+}
+
+/* call for action */
+.cfaInputBlock {
+    width: 280px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.cfaSubHeadingText {
+    width: 400px;
+    font-size: 14px;
+    text-align: center;
+    display: inline-block;
+    margin: 40px auto;
+}
