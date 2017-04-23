@@ -23,3 +23,7 @@ img {
     display: block;
     margin: auto;
 }
+
+.btn {
+    background-color: #ea6060;
+}
