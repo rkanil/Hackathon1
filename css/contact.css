@@ -1,0 +1,19 @@
+h1 {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 40pt;
+    color: #222222;
+    text-align: center;
+}
+
+p {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 18pt;
+    color: #777777;
+    text-align: center;
+}
+
+iframe {
+    filter: grayscale(100%);
+}
