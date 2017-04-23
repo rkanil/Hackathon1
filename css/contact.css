@@ -47,3 +47,24 @@ textarea {
     padding-left: 10px;
     font-weight: bold;
 }
+
+.btn-color {
+    background-color: #ea6060;
+    height: 55px;
+    width: 160px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.social {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 24pt;
+    color: #222222;
+    text-align: center;
+    margin: auto;
+    width: 80%;
+}
+
+a {
+    text-decoration: none;
+}
