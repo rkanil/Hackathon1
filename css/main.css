@@ -2,6 +2,7 @@
     box-sizing: border-box;
 }
 
+
 /* main */
 
 a {
@@ -10,8 +11,7 @@ a {
 
 .mainContainer {
     width: 75%;
-    
-    background-color:#ecedee;
+    background-color: #ecedee;
     margin: auto;
 }
 
@@ -20,7 +20,10 @@ section {
     background-color: white;
     margin: auto;
 }
+
+
 /* header */
+
 .centerText {
     font-size: 20px;
     display: inline-block;
@@ -42,10 +45,11 @@ section {
 
 .headingBottomMargin {
     margin: 10px auto;
+    font-size: 40px;
 }
 
 .headerSectionHeight {
-  min-height: 400px; 
+    min-height: 400px;
 }
 
 .headerPlayCircle {
@@ -59,7 +63,9 @@ section {
     background-size: 20px;
 }
 
+
 /* call for action */
+
 .cfaInputBlock {
     width: 280px;
     display: inline-block;
@@ -74,7 +80,9 @@ section {
     margin: 40px auto;
 }
 
+
 /* features */
+
 .featuresHeading {
     font-family: 'Titillium Web', sans-serif;
     font-weight: bold;
@@ -102,42 +110,43 @@ section {
     background-color: #ea6060;
 }
 
+
 /* services */
+
 .servicesSectionHeight {
-  height: 500px; 
+    height: 500px;
 }
 
-.servicesHeadingTxt{
-  font-size: 40px;
-  font-family: TitilliumWeb;
-  font-weight: bold;
-  color: #222
+.servicesHeadingTxt {
+    font-size: 40px;
+    font-family: TitilliumWeb;
+    font-weight: bold;
+    color: #222
 }
 
 .servicesSubHeadingTxt {
-  font-size: 18px;
-  font-family: TitilliumWeb;
-  font-weight: bold;
-  color: #4b4b4b;
-  width: 50%;
-  text-align: center;
-  display:inline-block;
-  margin-bottom: 50px;
+    font-size: 18px;
+    font-family: TitilliumWeb;
+    font-weight: bold;
+    color: #4b4b4b;
+    width: 50%;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 50px;
 }
 
 .servicesImageHeadingTxt {
-  font-size: 24px;
-  font-weight: bold; 
-  font-family: TitilliumWeb;
-  color: #222;
-
+    font-size: 24px;
+    font-weight: bold;
+    font-family: TitilliumWeb;
+    color: #222;
 }
 
 .servicesImageSubHeadingTxt {
-  font-size: 16px;
-  font-weight: light;
-  font-family: TilliumWeb;
-  color: #777;
+    font-size: 16px;
+    font-weight: light;
+    font-family: TilliumWeb;
+    color: #777;
 }
 
 .servicesCircleImages {
@@ -153,41 +162,43 @@ section {
     display: inline-block;
 }
 
+
 /* team */
+
 .teamSectionHeight {
-  height: 500px; 
+    height: 500px;
 }
 
-.teamHeadingTxt{
-  font-size: 40px;
-  font-family: TitilliumWeb;
-  font-weight: bold;
-  color: #222
+.teamHeadingTxt {
+    font-size: 40px;
+    font-family: TitilliumWeb;
+    font-weight: bold;
+    color: #222
 }
 
 .teamSubHeadingTxt {
-  font-size: 18px;
-  font-family: TitilliumWeb;
-  font-weight: bold;
-  color: #4b4b4b;
-  width: 50%;
-  text-align: center;
-  display:inline-block;
-  margin-bottom: 50px;
+    font-size: 18px;
+    font-family: TitilliumWeb;
+    font-weight: bold;
+    color: #4b4b4b;
+    width: 50%;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 50px;
 }
 
 .teamImageHeadingTxt {
-  font-size: 24px;
-  font-weight: bold; 
-  font-family: TitilliumWeb;
-  color: #222;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: TitilliumWeb;
+    color: #222;
 }
 
 .teamImageSubHeadingTxt {
-  font-size: 16px;
-  font-weight: light;
-  font-family: TilliumWeb;
-  color: #777;
+    font-size: 16px;
+    font-weight: light;
+    font-family: TilliumWeb;
+    color: #777;
 }
 
 .teamCircleImages {
@@ -211,40 +222,41 @@ section {
 
 
 /* pricing */
+
 .pricingSectionHeight {
-  height: 600px; 
+    height: 600px;
 }
 
-.pricingHeadingTxt{
-  font-size: 40px;
-  font-family: TitilliumWeb;
-  font-weight: bold;
-  color: #222
+.pricingHeadingTxt {
+    font-size: 40px;
+    font-family: TitilliumWeb;
+    font-weight: bold;
+    color: #222
 }
 
 .pricingSubHeadingTxt {
-  font-size: 18px;
-  font-family: TitilliumWeb;
-  font-weight: bold;
-  color: #4b4b4b;
-  width: 50%;
-  text-align: center;
-  display:inline-block;
-  margin-bottom: 50px;
+    font-size: 18px;
+    font-family: TitilliumWeb;
+    font-weight: bold;
+    color: #4b4b4b;
+    width: 50%;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 50px;
 }
 
 .pricingImageHeadingTxt {
-  font-size: 24px;
-  font-weight: bold; 
-  font-family: TitilliumWeb;
-  color: #222;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: TitilliumWeb;
+    color: #222;
 }
 
 .pricingImageSubHeadingTxt {
-  font-size: 16px;
-  font-weight: light;
-  font-family: TilliumWeb;
-  color: #777;
+    font-size: 16px;
+    font-weight: light;
+    font-family: TilliumWeb;
+    color: #777;
 }
 
 .pricingBorder {
@@ -255,8 +267,8 @@ section {
     margin: 0 10px auto;
 }
 
-/* contact */
 
+/* contact */
 
 .contactHeading {
     font-family: 'Titillium Web', sans-serif;
@@ -320,4 +332,3 @@ textarea {
     margin: auto;
     width: 80%;
 }
-
