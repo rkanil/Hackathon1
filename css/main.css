@@ -166,7 +166,8 @@ section {
 /* team */
 
 .teamSectionHeight {
-    height: 500px;
+    min-height: 500px;
+    overflow: auto;
 }
 
 .teamHeadingTxt {
